@@ -4,3 +4,4 @@ this is my file
 this is my file
 this is to check after staging changes
 added new line in GUI
+added line in CLI
