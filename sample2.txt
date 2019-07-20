@@ -4,3 +4,4 @@ merge
 statsh
 new line
 last line
+this is to validate git diff command
