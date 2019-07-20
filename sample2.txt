@@ -1,0 +1,6 @@
+this is second file
+we are checking for more updates with below commands
+merge
+statsh
+new line
+last line
