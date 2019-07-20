@@ -1,9 +1,2 @@
-this is my file to practice git commands
-revert changes before staging and after sgaing need to check
-this is my file
-this is my file
-this is to check after staging changes
-added new line in GUI
-added line in CLInew line added
-this is another line
-this is last line 
+this is New FILE
+This is to test conficts
